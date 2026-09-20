@@ -1,0 +1,6 @@
+{
+  "name": "ZERO SHOT TRAINING PANEL",
+  "description": "Professional Free Fire gaming companion & aim trainer panel for sensitivity tuning, HUD guides, weapon recoil control, reaction drills, and stat tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
